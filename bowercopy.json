@@ -1,0 +1,12 @@
+{
+    "libs": {
+        "options": {
+            "destPrefix": "app/js/vendor",
+            "clean": true
+        },
+        "files": {
+            "three.min.js": "three.js/build/three.min.js",
+            "three.js-controls-orbitControls.js": "three.js-controls/src/OrbitControls.js"
+        }
+    }
+}
